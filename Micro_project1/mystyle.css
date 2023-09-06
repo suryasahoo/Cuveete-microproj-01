@@ -1,0 +1,76 @@
+body {
+    background: #FFCD9E;
+    margin-top: 0px;
+    padding-left: 0%;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.above {
+    width: 1000px;
+    height: 300px;
+    margin-top: 5%;
+    margin-left: 100px;
+    padding: 50px 100px;
+}
+
+.vector-img {
+    width: 400px;
+    position: absolute;
+    bottom: 0;
+    right: 10%;
+    top: 10%;
+}
+
+ul,
+li {
+    list-style: none;
+    padding: 5px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.free {
+    color: #fff;
+    font-size: 12px;
+    margin: 10px 0 0 10px;
+}
+
+.Description-team {
+    color: #484848;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 22px;
+    margin-bottom: 5px;
+}
+
+.reigster-btn {
+    background-color: #282828;
+    color: #fff;
+    padding: 12px 15px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+
+.mail-txt {
+    height: 31.5px;
+    border-radius: 5px;
+    border-color: #000;
+    width: 200px;
+}
+
+.below {
+    width: 1343px;
+    height: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #282828;
+    padding: 20px 0px;
+}
